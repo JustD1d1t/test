@@ -40,7 +40,7 @@
   "feature.country_switch_on_start": true,
   "feature.inbox": false,
   "feature.inbox.detailWebView": true,
-  "feature.new_navigation": true,
+  "feature.new_navigation": false,
   "feature.push": true,
   "feature.push.install_default_opt_in": true,
   "feature.rating": true,
